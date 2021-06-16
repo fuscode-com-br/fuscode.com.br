@@ -7,7 +7,7 @@ $(window).on('scroll', function(){
 	else{
 		$('header').removeClass('nav-show');
 	}
-	   
+	
 })
 
 //hamburger
